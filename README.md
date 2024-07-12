@@ -1,5 +1,5 @@
 # 💫 About Me:
-Greetings! My name is Syaid Andhika and I am a student at UBSI Yogyakarta. In addition to playing video games in my spare time, I am quite interested in developing web applications. I recently joined the Bangkit program, which excites me since it allows me to learn and flourish in the technology field. This program allows me to expand my network and expertise while also exploring my technological capabilities.
+Greetings! My name is Syaid Andhika and I am a student at UBSI Yogyakarta. In addition to playing video games in my spare time, I am quite interested in developing web applications. I recently joined the Bangkit program Batch 1 2024, which excites me since it allows me to learn and flourish in the technology field. This program allows me to expand my network and expertise while also exploring my technological capabilities.
 
 
 ## 🌐 Socials:
